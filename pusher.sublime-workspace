@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 889,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -1331,26 +1331,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "app.js",
 					"settings":
 					{
-						"buffer_size": 889,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								565,
-								565
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 288.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
