@@ -1,0 +1,40 @@
+{
+  "name": "pusher",
+  "version": "0.0.1",
+  "description": "pusher",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "communicate",
+    "scale",
+    "massive",
+    "realtime",
+    "server"
+  ],
+  "author": "satbirdd@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "session.socket.io": "~0.1.6",
+    "redis": "~0.8.4",
+    "connect-redis": "~1.4.5",
+    "amqplib": "0.0.2",
+    "node-uuid": "~1.4.1",
+    "nohm": "~0.9.4",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "socket.io-client": "*",
+    "grunt": "~0.4.1",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "mocha": "~1.12.1",
+    "chai": "~1.7.2",
+    "grunt-mocha-test": "~0.6.3",
+    "grunt-mocha": "~0.4.7",
+    "sinon": "~1.9.1"
+  }
+}
